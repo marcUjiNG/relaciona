@@ -1,0 +1,20 @@
+{
+  "title": "Exercici 23",
+  "solutions": [
+    {
+      "id": 1,
+      "category": "Pérez",
+      "options": ["Juan", "María", "Pedro"],
+      "image": ""
+    },
+    {
+      "id": 2,
+      "category": "García",
+      "options": ["Ana", "Luis", "Marta"],
+      "image": ""
+    }
+  ],
+  "other_solutions": ["Pepe", "Paco"],
+  "mode": "completo",
+  "image": "/home/usuario/PhpstormProjects/relaciona/public/uploads/04-04-2023-11-40_642bf0a948aa8.jpg"
+}

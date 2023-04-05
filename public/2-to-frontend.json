@@ -1,0 +1,14 @@
+{
+  "solutions": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Pepe"
+      },{
+        "id": 2,
+        "name": "Paco"
+      }
+    ],
+    "options": ["Juan", "Ana", "Pepe", "María", "Luis", "Paco", "Pedro", "Marta"]
+  }
+}
